@@ -2,6 +2,11 @@
 
 Neste desafio, você deverá desenvolver uma aplicação full-stack utilizando React para o frontend e Node.js com NestJS para o backend. O objetivo é implementar um sistema de gerenciamento de novos heróis da Marvel com operações CRUD (Create, Read, Update, Delete).
 
+> OBS : Você receberá um e-mail com a data de início dos desafios, mas eles já estão disponíveis para acesso imediato. 
+Se ainda não preencheu o formulário, por favor, acesse o link para completá-lo.
+[Forms de inscrição](https://forms.gle/EJKDNKdmVZM3zQTr7)
+é importante está inscrito no formulário , pois o seu email precisa ser validado
+
 ## Requisitos do Projeto
 
 ### Frontend (React + TypeScript)
