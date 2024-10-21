@@ -80,7 +80,7 @@ Faça o deploy da sua aplicação em plataformas como GitHub Pages, Heroku, Verc
 - Link do GitHub com o Código
 - Link do Deploy
 
-**Observação:** É obrigatório entregar os três desafios em até 20 dias após o início. O desafio atual é a Parte 01 de 03 desafios.
+**Observação:** É obrigatório entregar o desafio em até 20 dias após o início.
 
 ## Prazo
 
