@@ -53,4 +53,3 @@ Este desafio faz parte do processo seletivo do projeto Frontend Fusion para a va
 - NestJS
 - TypeScript.
 - MongoDB
-
